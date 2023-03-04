@@ -50,3 +50,6 @@ venv
 
 # Temp folder
 tmp
+
+# docker-compose
+.env
